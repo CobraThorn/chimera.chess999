@@ -1,0 +1,15 @@
+{
+  "id": "test-1",
+  "email": "tester@example.com",
+  "phone": "+15551234567",
+  "displayName": "Tester",
+  "createdAt": 1,
+  "lastLoginAt": 1,
+  "consents": {
+    "analytics": true,
+    "marketing": false,
+    "cognitiveResearch": true
+  },
+  "updatedAt": 1779460647135,
+  "firstSeenAt": 1
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ea69fd65-489f-4cb7-8929-7a26b2b8abc4",
+  "email": "joshuastevenson189@gmail.com",
+  "phone": "+07403546478",
+  "displayName": "CobraThorn",
+  "createdAt": 1779460590894,
+  "lastLoginAt": 1779460590894,
+  "consents": {
+    "analytics": true,
+    "marketing": true,
+    "cognitiveResearch": true
+  },
+  "updatedAt": 1779473188816,
+  "firstSeenAt": 1779460590894
+}
